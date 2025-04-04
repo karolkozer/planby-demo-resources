@@ -1,0 +1,82 @@
+[
+  {
+    "uuid": "a2ec5f7c-cc35-4eca-ac44-89cad519a263",
+    "title": "r tv",
+    "logo": "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/r-channel.png",
+    "displayOrder": 1,
+    "groupTree": false,
+    "parentChannelUuid": null
+  },
+  {
+    "uuid": "53757b70-9b42-4a73-941b-94d9790db028",
+    "title": "b tv",
+    "logo": "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/b-channel.png",
+    "displayOrder": 2,
+    "groupTree": false,
+    "parentChannelUuid": null
+  },
+  {
+    "uuid": "2a547957-0d44-4822-98a7-8447faf1d728",
+    "title": "five tv",
+    "logo": "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/five-channel.png",
+    "displayOrder": 3,
+    "groupTree": false,
+    "parentChannelUuid": null
+  },
+  {
+    "uuid": "abeb8d62-7c72-4cf7-985a-39890e606924",
+    "title": "comedy tv",
+    "logo": "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/c-channel.png",
+    "displayOrder": 4,
+    "groupTree": false,
+    "parentChannelUuid": null
+  },
+  {
+    "uuid": "116a88ae-0f82-4ab0-9a5b-9f977c243e2b",
+    "title": "tm tv",
+    "logo": "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/tm-channel.png",
+    "displayOrder": 5,
+    "groupTree": false,
+    "parentChannelUuid": null
+  },
+  {
+    "uuid": "7e6a75c0-aae1-4cb7-9580-9e192896a8b6",
+    "title": "w tv",
+    "logo": "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/w-channel.png",
+    "displayOrder": 6,
+    "groupTree": false,
+    "parentChannelUuid": null
+  },
+  {
+    "uuid": "3bbcee3f-adc2-4cb3-9e65-28f902c6c940",
+    "title": "six tv",
+    "logo": "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/six-channel.png",
+    "displayOrder": 7,
+    "groupTree": false,
+    "parentChannelUuid": null
+  },
+  {
+    "uuid": "15684b6d-f07a-4736-bb54-486e4e0ada32",
+    "title": "nfi tv",
+    "logo": "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/nfi-channel.png",
+    "displayOrder": 8,
+    "groupTree": false,
+    "parentChannelUuid": null
+  },
+  {
+    "uuid": "7dec2f1b-2373-4a23-8719-127325d7f225",
+    "title": "dragon tv",
+    "logo": "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/dragon-channel.png",
+    "displayOrder": 9,
+    "groupTree": false,
+    "parentChannelUuid": null
+  },
+  {
+    "uuid": "9b056710-0b82-4a92-91f5-8b99d710c4f7",
+    "title": "cd tv",
+    "logo": "https://raw.githubusercontent.com/karolkozer/planby-demo-resources/master/resources/channel-logos/png/cd-channel.png",
+    "displayOrder": 10,
+    "groupTree": false,
+    "parentChannelUuid": null
+  }
+]
